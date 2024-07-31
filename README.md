@@ -44,3 +44,7 @@ handling the complex patterns in encrypted images..
 • The dataset used (MNIST) consists of simple grayscale images, which may not fully
 represent real-world scenarios.
 • The security implications of this approach need further investigation
+![download](https://github.com/user-attachments/assets/caa73f79-85fe-4b8d-9c37-fe45a7cbaf01)
+
+![download (1)](https://github.com/user-attachments/assets/04a0b8d5-ef92-41df-bec4-77d1a43475ca)
+![Screenshot 2024-07-31 210357](https://github.com/user-attachments/assets/97b4578b-80f0-49c1-95b8-43c68cadbff0)
